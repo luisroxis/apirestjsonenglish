@@ -8,6 +8,7 @@
 
 ![Heroku](https://nishanthkabra.com/images/herokunode.jpg)
 
-### Link Deploy
 
-![LinkHeroku](https://restapitestengl.herokuapp.com)
+### Link Aplicação
+
+[LinkHeroku](https://restapitestengl.herokuapp.com)

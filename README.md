@@ -2,4 +2,4 @@
 
 ## Tecnologias
 
-Node [x]
+- [x] Node
